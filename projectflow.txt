@@ -83,3 +83,7 @@ with Live(save_dvc_exp=True) as live:
     live.log_metric('recall', recall_score(y_test, y_test))
 
     live.log_params(params)
+
+
+    pass:mongodb Gaurav020&! username Gaurav
+    connection string: mongodb+srv://Gaurav:<db_password>@cluster0.gsex9qr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
